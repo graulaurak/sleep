@@ -1,1 +1,4 @@
-sleep
+% Sleep Algorithm Programmer: Laura Grau
+Using an Algorithm to Identify Indices of Sleep Quantity and Quality from a Wearable Armband
+Laura Grau, MPH1, Jaron Arbet, PhD1, Danielle M. Ostendorf, PhD2,3, Jennifer M. Blankenship2, PhD, Shelby Panter, MS2,3, Victoria A. Catenacci, MD2,3, Edward L. Melanson, PhD2,4,5, Seth A. Creasy, PhD2,3
+Affiliations: 1Department of Biostatistics and Informatics, Colorado School of Public Health, University of Colorado Anschutz Medical Campus, Aurora, CO 2Division of Endocrinology, Metabolism, and Diabetes, University of Colorado Anschutz Medical Campus, Aurora, CO 3Anschutz Health and Wellness Center, University of Colorado Anschutz Medical Campus, Aurora, CO 4Eastern Colorado VA Geriatric Research, Education, and Clinical Center, Aurora, CO 5Division of Geriatrics, University of Colorado Anschutz Medical Campus, Aurora, CO
