@@ -585,7 +585,7 @@ on a.&id=c.&id and a.date_sleep=c.date_sleep;
 quit;
 
 
-proc sort data=step6;
+proc sort data=two_3;
 by &id &datetime;
 run;
 
